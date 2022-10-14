@@ -1,2 +1,2 @@
-print("Hi NET2008")
+print("Hi")
 print("Hello")
